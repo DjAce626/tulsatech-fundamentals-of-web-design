@@ -1,0 +1,17 @@
+style.css
+
+
+H1, H2, H3, H4{
+  font-family:fantasy;
+  text-align: center;
+  color: white;
+}
+
+body{ 
+  background-color:rgb(0, 0, 0)
+}
+
+p {
+  font-family:fantasy;
+  color: aqua;
+}
