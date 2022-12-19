@@ -1,0 +1,20 @@
+a {color:rgb(1, 43, 255); font-family:fantasy; }
+a:hover  {color:rgb(1, 200, 255);}
+P {color:rgb(48, 255, 1); font-family:fantasy; }
+h1 {color:rgb(136, 1, 255); font-family:fantasy; }
+br {color:rgb(255, 18, 1); font-family:fantasy; }
+
+
+body {background-color:rgb(5, 5, 5)}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  width: 60px;
+  background-color: #dddddd;
+}

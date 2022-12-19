@@ -1,0 +1,23 @@
+th{ 
+    text-align: center;
+}
+
+td{ 
+    text-align: center;
+}
+
+table, th, td {
+  border:1px solid rgb(4, 167, 189);
+}
+h1{
+  text-align: center;
+  color: white;
+}
+
+body{ 
+  background-color:rgb(0, 0, 0)
+}
+
+h1, th, td {
+  font-family:fantasy;
+}

@@ -1,0 +1,34 @@
+body {
+    font-family: fantasy;
+    color: white;
+    background-color: black;
+}
+
+h1, h2 {
+    color: orange;
+}
+
+.greenfield {
+    color: green;
+}
+
+input {
+    background-color: black;
+    border-color: green;
+    color: white;
+}
+
+.darkcyanfield {
+    color: darkcyan;
+}
+
+.redfield {
+    color: red;
+}
+
+textarea {
+    background-color: black;
+    border-color: red;
+    color: white;
+}
+
